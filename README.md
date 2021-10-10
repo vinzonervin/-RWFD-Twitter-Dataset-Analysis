@@ -4,6 +4,8 @@ sql analysis of #rwfd twitter dataset
 Data Dictionary
 
 ID - id of the tweet
+
+
 Tweet - message compose on twitter webapp
 Time - time posted the tweet
 Engagement Rate - total number of engagements divided by total impressions multiplied by 100
